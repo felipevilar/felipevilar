@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felipe Vilar</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipevilar&label=Profile%20views&color=0e75b6&style=flat" alt="felipevilar" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/felipe-vilar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-vilar" height="30" width="40" /></a>
@@ -14,3 +12,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipevilar&show_icons=true&locale=en&layout=compact" alt="felipevilar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipevilar&show_icons=true&locale=en" alt="felipevilar" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipevilar&label=Profile%20views&color=0e75b6&style=flat" alt="felipevilar" /> </p>
