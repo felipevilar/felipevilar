@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Vilar</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Vue3, NodeJS, Kubernetes, Amazon Services**
+- 🌱 I’m currently learning **Vue3, NodeJS, Kubernetes, AWS Services**
 
 - 👨‍💻 All of my projects are available at [https://felipevilar.github.io/portfolio/](https://felipevilar.github.io/portfolio/)
 
