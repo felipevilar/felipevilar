@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Felipe Vilar</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Vue3, NodeJS, Kubernetes, AWS Services**
+- 🌱 I’m currently working with **Vue3, NodeJS, Kubernetes, AWS Services**
 
-- 👨‍💻 All of my projects are available at [https://felipevilar.github.io/portfolio/](https://felipevilar.github.io/portfolio/)
+- 👨‍💻 Some of my frontend projects are available at [https://felipevilar.github.io/portfolio/](https://felipevilar.github.io/portfolio/)
 
-- 💬 Ask me about **vue, javascript, typescript, mongoDB**
+- 💬 Ask me about **vue, javascript, typescript, mongoDB, quasar framework**
 
 - 📫 How to reach me **felipvilar@gmail.com**
 
